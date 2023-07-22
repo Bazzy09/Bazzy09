@@ -1,4 +1,4 @@
-Hi there!👋 I am Joshua Nathaniel Bazzim
+Hi there!👋I am Joshua Nathaniel Bazzim
 ---
 SOCIAL PROFILES
 ---
