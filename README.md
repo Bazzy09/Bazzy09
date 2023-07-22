@@ -25,7 +25,7 @@ STATUS REPORT:
 ---
 [![Status badge](https://img.shields.io/badge/HIRING_STATUS-AVAILABLE-<COLOR>.svg)](https://shields.io/)
 ---
-![Bazzy09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phildeoner&show_icons=true&theme=dark_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
+![Bazzy09's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAzzy09&show_icons=true&theme=dark_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 ---
 <a href="https://github.com/Bazzy09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bazzy09&theme=blueberry&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" /></a>
 ---
