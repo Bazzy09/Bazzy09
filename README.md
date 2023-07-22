@@ -27,10 +27,10 @@ STATUS REPORT:
 ---
 ![Bazzy09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phildeoner&show_icons=true&theme=dark_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true)
 ---
-<a href="https://github.com/Bazzy09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Phildeoner&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Bazzy09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bazzy09&theme=blueberry&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" /></a>
 ---
-<a href="http://www.github.com/Bazzy09"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Phildeoner&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/Bazzy09"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bazzy09&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 ---
-<a href="https://github.com/Bazzy09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phildeoner&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
+<a href="https://github.com/Bazzy09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bazzy09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> 
 ---
 💬 Ask me about anything [Here](https://github.com/Bazzy09/bazzy09/issues)
