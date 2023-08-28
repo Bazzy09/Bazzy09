@@ -10,7 +10,7 @@ A Little More About Me:
 const joshuaNathanielBazzim= {
   lookingFor: "Frontend developer job";
   code: ["JavaScript", "HTML/CSS"];
-  askMeAbout: ["problem solving","fashion design" "music", "sports","music"],
+  askMeAbout: ["problem solving","fashion design" "music", "sports"]
   challenge: "I am hoping on building my ideas and skills on other tools like React, Vue.js and Ruby",
   funFacts: ['I am willing and ready to advance in the tech world', 
   'I am available for offers']
